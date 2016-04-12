@@ -1,0 +1,29 @@
+{
+  "name": "gulp-specflow-runner-nunit",
+  "version": "0.0.1",
+  "description": "A Gulp.js plugin to facilitate the running of Specflow tests using nunit ",
+  "main": "lib/index.js",
+  "files": [
+    "index.js",
+    "lib/*.js",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keithmorris/gulp-specflow-runner-nunit.git"
+  },
+  "keywords": [
+    "gulp",
+    "nunit",
+    ".net",
+    "specflow",
+    "gulpplugin"
+  ],
+  "author": "Craig Godden-Payne <craig@goddenpayne.co.uk> (http://craig.goddenpayne.co.uk/)",
+  "dependencies": {
+    "gulp-util": "^3.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
